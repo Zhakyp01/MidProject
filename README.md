@@ -29,6 +29,6 @@ Some details in Wiki
 ![dbeef933-a728-44dd-a540-71acdf4c149d](https://user-images.githubusercontent.com/49916341/81498461-f04e0600-92e6-11ea-8d6a-e4a5b7955fa9.jpg)
 
 <h3>Contributors</h3>
-<p>Zhakyp Zhoomart uulu</p>
-<p>Nurbek Kumushbekov</p>
-<p>Meerlan Tynarbekov</p>
+<p>Zhakyp Zhoomart uulu.</p>
+<p>Nurbek Kumushbekov.</p>
+<p>Meerlan Tynarbekov.</p>
