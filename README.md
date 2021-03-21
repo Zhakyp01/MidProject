@@ -4,6 +4,7 @@ This app will help you to provide detailed information about the tours.
 The technical explanation is that our program will simplify your time in the field of booking.
 
 We gave a clear explanation in our report, please pay attantion.
+"https://drive.google.com/file/d/1krGOUVqY_W2SlSSphBghx7MI-opDJD1N/view?usp=drivesdk"
 
 Some details in Wiki
 
