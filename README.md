@@ -6,7 +6,7 @@ The technical explanation is that our program will simplify your time in the fie
 We gave a clear explanation in our report, please pay attantion.
 "https://drive.google.com/file/d/1krGOUVqY_W2SlSSphBghx7MI-opDJD1N/view?usp=drivesdk"
 
-Some details in Wiki.
+Some details in Wiki
 
 # About TourGuideApp
 
