@@ -3,6 +3,8 @@ This app will help you to provide detailed information about the tours.
 
 The technical explanation is that our program will simplify your time in the field of booking.
 
+We gave a clear explanation in our report, please pay attantion.
+
 Some details in Wiki
 
 # About TourGuideApp
