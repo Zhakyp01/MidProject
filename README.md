@@ -1,11 +1,7 @@
 # TourGuideApp
 This app will help you to provide detailed information about the tours.
 
-The technical explanation is that my program will simplify your time in the field of booking.
-
-I gave a clear explanation in my report, please pay attantion.
-
-!!! That zip file that is on Branch: master in order to download the main one that I did on my computer. Just uploaded because when I sent to the git my Internet broke. If suddenly something goes wrong, download the finished zip that I uploaded.
+The technical explanation is that our program will simplify your time in the field of booking.
 
 Some details in Wiki
 
@@ -31,3 +27,8 @@ Some details in Wiki
 ![14abcc8a-4b40-429b-aa71-c580cedfebb4](https://user-images.githubusercontent.com/49916341/81498460-efb56f80-92e6-11ea-8735-6d60bc9fc20a.jpg)
 
 ![dbeef933-a728-44dd-a540-71acdf4c149d](https://user-images.githubusercontent.com/49916341/81498461-f04e0600-92e6-11ea-8d6a-e4a5b7955fa9.jpg)
+
+<h3>Contributors</h3>
+<p>Zhakyp Zhoomart uulu</p>
+<p>Nurbek Kumushbekov</p>
+<p>Meerlan Tynarbekov</p>
